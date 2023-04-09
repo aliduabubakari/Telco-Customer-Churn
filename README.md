@@ -1,6 +1,6 @@
-Classification -- Predicting Customer Churn
+## Classification -- Predicting Customer Churn
 
-#Introduction: 
+##Introduction: 
 
 Customer attrition is one of the biggest expenditures of any organization. Customer churn otherwise known as customer attrition or customer turnover is the percentage of customers that stopped using your company's product or service within a specified timeframe.
 For instance, if you began the year with 500 customers but later ended with 480 customers, the percentage of customers that left would be 4%. If we could figure out why a customer leaves and when they leave with reasonable accuracy, it would immensely help the organization to strategize their retention initiatives manifold.
@@ -50,3 +50,4 @@ MonthlyCharges -- The amount charged to the customer monthly
 TotalCharges -- The total amount charged to the customer
 
 Churn -- Whether the customer churned or not (Yes or No)
+
