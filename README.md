@@ -121,9 +121,10 @@ Determine the key factors that influence churn using Recursive feature eliminati
 
 Based on the findings, create strategies to engage and retain customers.
 
-## Implementation and monitoring: 
+![Alt text](image/retention.jpg)
 
-Deploy retention initiatives and track their effectiveness over time.
+Offer loyalty rewards: Since the highest percentage of churned customers belong to the demographic of females with no partners or dependents and males with no partners or dependents, it may be worth offering these customers loyalty rewards such as discounts, freebies or personalized offers to incentivize them to stay.
+
 
 # 🚀 Expected Results:
 
@@ -132,6 +133,7 @@ Deploy retention initiatives and track their effectiveness over time.
 - Insights into the factors driving customer attrition.
 
 -Tailored retention strategies to mitigate churn and improve customer loyalty.
+
 
 📧 Contact: 
 
@@ -146,3 +148,4 @@ For any questions or concerns, please reach out to :
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidu-abubakari-2612bb57/) 
 
 
+Please read more on my medium [EDA Report](https://medium.com/@alidu143/unveiling-the-drivers-of-customer-churn-an-analytical-journey-to-improve-retention-part-1-20fbfd602841), [Machine Learning Models](https://medium.com/@alidu143/unveiling-the-drivers-of-customer-churn-an-analytical-journey-to-improve-retention-part-2-ad561a05c20f) and [retention strategies](https://medium.com/@alidu143/unveiling-the-drivers-of-customer-churn-an-analytical-journey-to-improve-retention-part-3-26b3665d1996)
