@@ -1,10 +1,13 @@
 # Customer Churn Analysis and Retention Strategies
 
+![Alt text](image/banner.jpg)
+
 🔎 Customer churn is the percentage of customers who stop using a company's product or service within a specific timeframe.
 
 ## 📊 Project Objective: 
 
 Identify the likelihood of customer churn, key indicators of churn, and effective retention strategies.
+
 
 ## 🎯 Importance: 
 
